@@ -1,0 +1,11 @@
+[[key.foo]]
+field1 = "a"
+field2 = "b"
+
+[[key.foo]]
+field1 = "c"
+field2 = "d"
+
+[[key.foo]]
+field1 = "e"
+field2 = "f"

@@ -1,0 +1,11 @@
+[[foo]]
+field1 = "a"
+field2 = "b"
+
+[[foo]]
+field1 = "c"
+field2 = "d"
+
+[[foo]]
+field1 = "e"
+field2 = "f"
